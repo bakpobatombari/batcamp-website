@@ -1,0 +1,71 @@
+body{
+    background-image: url(assets/images/bat.jpg);
+    font-family:sans-serif;
+    padding:20px;
+    text-align: center;
+}
+h1{
+    color:whitesmoke;
+    text-align: justify;
+    text-decoration:underline;
+}
+ol{
+    color:rgb(204, 129, 129);
+}
+ul{
+    color:red;
+    text-align: left;
+}
+p{
+    color:whitesmoke;
+    text-align:center;
+    font-style: italic;
+}
+h4{
+    color:whitesmoke;
+    text-align:center;
+}
+h2{
+    color:#f5f5f5;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.container{
+    width:80%;
+    left:30px;
+    background-color: rgba(11, 10, 51, 0.918);
+    margin-left:auto;
+    margin-right:auto;
+    padding:20px;
+    max-width:500px;
+}
+.established{
+    color:whitesmoke;
+    font-style:italic;
+}
+.a href{
+    text-align: left;
+}
+.box{
+    color:whitesmoke;
+    text-align: left;
+    font-style:italic;
+}
+.bag{
+color:#f5f5f5;
+}
+hr{
+    color: #f5f5f5;
+}
+.gear{
+    color:#f5f5f5;
+    text-align: left;
+    
+}
+h3{
+    text-align: left;
+    color:#f5f5f5;
+}
